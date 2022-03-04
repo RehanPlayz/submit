@@ -1,0 +1,12 @@
+{
+  "optionalRepository": "https://github.com/your-a-fail/submit",
+  "desc": "This is a subdomain for example",
+  "owner": {
+    "user": "LellisV2",
+    "mail": "cloud@lellis.tech",
+    "Discord": "Lellis#9405"
+  },
+  "dns": {
+    "CNAME": "google.com"
+  }
+}
