@@ -1,5 +1,4 @@
-# your-a-fail
-Get a your-a.fail subdomain :)
+# Get a your-a.fail subdomain :)
 
 
 ## Steps to get a subdomain:
