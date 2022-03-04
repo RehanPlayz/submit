@@ -1,0 +1,12 @@
+{
+  "optionalRepository": "https://github.com/your-a-fail/submit",
+  "desc": "This is a subdomain for example",
+  "owner": {
+    "user": "Example",
+    "mail": "Example@example.com",
+    "Discord": "NAME#0000"
+  },
+  "dns": {
+    "CNAME": "example.github.com"
+  }
+}
