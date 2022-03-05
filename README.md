@@ -5,7 +5,7 @@
 1. First fork this repository.
 2. Then go into the template.json file and copy the contents.
 3. Go into the forked repository.
-4. Open the **subdomains** folder.
+4. Open the **domains** directory.
 5. Create a .json file paste the the stuff you copied earlier.
 6. Enter your information.
 7. Commit your file to the fork.
